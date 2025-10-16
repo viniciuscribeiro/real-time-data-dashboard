@@ -1,0 +1,18 @@
+# Arquivo: .gitignore
+
+# Node.js
+node_modules
+dist
+.npm
+npm-debug.log*
+package-lock.json
+
+# Python
+venv
+__pycache__/
+*.pyc
+.env
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
