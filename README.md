@@ -4,7 +4,7 @@
 
 <br>
 
-> **[ESSENCIAL]** Para este projeto, um **GIF é a melhor forma de demonstração**. Grave sua tela mostrando o gráfico se atualizando sozinho em tempo real e substitua a imagem abaixo.
+> <img width="1084" height="707" alt="image" src="https://github.com/user-attachments/assets/80803953-5dad-43e5-b5ef-158f5a17548d" />
 
 -----
 
